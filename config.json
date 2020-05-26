@@ -1,0 +1,8 @@
+{
+  "broker_url": "192.168.1.1",
+  "port": 1883,
+  "topic": "blinds",
+  "username": "your-username",
+  "password": "your-password",
+  "pin": 8888
+}
